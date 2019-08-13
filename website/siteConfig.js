@@ -50,6 +50,12 @@ const users = [
     pinned: true,
   },
   {
+    caption: 'GBTI SA',
+    image: 'https://gbti.pl/images/logo_color.svg',
+    infoLink: 'https://gbti.pl/',
+    pinned: true,
+  },
+  {
     caption: 'Velc',
     image: '/img/icons/velc.svg',
     infoLink: 'https://www.velc.co.jp/',
